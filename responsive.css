@@ -23,38 +23,30 @@
     span.menu-icon {
         display: block;
     }
-}
-
-.mid-wrapper {
-    text-align: left;
-}
-
-.btn {
-    width: 100%;
-}
-
-.facebook {
-    margin-bottom: 10px;
-}
-
-.top-wrapper {
-    text-align: left;
-}
-
-.top-wrapper h1 {
-    font-size: 24px;
-    line-height: 36px;
-}
-
-.top-wrapper p {
-    font-size: 14px;
-    line-height: 20px;
-}
-
-.produk {
-    width: 100%;
-}
-
-footer {
-    text-align: center;
+    .mid-wrapper {
+        text-align: left;
+    }
+    .btn {
+        width: 100%;
+    }
+    .facebook {
+        margin-bottom: 10px;
+    }
+    .top-wrapper {
+        text-align: left;
+    }
+    .top-wrapper h1 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+    .top-wrapper p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .produk {
+        width: 100%;
+    }
+    footer {
+        text-align: center;
+    }
 }
