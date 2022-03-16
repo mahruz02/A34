@@ -23,9 +23,18 @@
     span.menu-icon {
         display: block;
     }
-    .btn {
-        width: 100%;
-    }
+}
+
+.mid-wrapper {
+    text-align: left;
+}
+
+.btn {
+    width: 100%;
+}
+
+.facebook {
+    margin-bottom: 10px;
 }
 
 .top-wrapper {
@@ -40,12 +49,6 @@
 .top-wrapper p {
     font-size: 14px;
     line-height: 20px;
-}
-
-.mid-wrapper p {
-    font-size: 14px;
-    line-height: 20px;
-    text-align: left;
 }
 
 .produk {
